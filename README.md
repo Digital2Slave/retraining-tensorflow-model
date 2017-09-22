@@ -45,7 +45,7 @@ The structure of **data** like the following:
 ### Download retraining script
 
 ```
-$ curl -O https://raw.githubusercontent.com/tensorflow/tensorflow/r1.2/tensorflow/examples/image_retraining/retrain.py
+$ curl -O https://raw.githubusercontent.com/tensorflow/tensorflow/r1.3/tensorflow/examples/image_retraining/retrain.py
 ```
 
 ### Start tensorboard in background
